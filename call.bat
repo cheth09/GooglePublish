@@ -1,0 +1,1 @@
+java -cp "E:\newspace\newworkspace\PlayStoreDemoProject_Android\GooglePublish\bin;E:\newspace\newworkspace\PlayStoreDemoProject_Android\GooglePublish\lib\*;E:\newspace\newworkspace\PlayStoreDemoProject_Android\GooglePublish\lib\testng-6.9.4.jar" org.testng.TestNG testng.xml
